@@ -1,0 +1,15 @@
+Package: whoisying
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ios
+Installed-Size: 6160
+Depends: mobilesubstrate
+Filename: ./whoisying_1.0_iphoneos-arm64_dobby.deb
+Size: 5517820
+MD5sum: bce49c6ace1b473c5bc380f1522d0550
+SHA1: 9b0b019524ddff3bae6e7e7e4f1a12c6af1b9e76
+SHA256: 3cb83b09b36f76f488b0d74f54d05d78fa55f61ce9c1c1d366ee13f9e10aa09f
+Description: AUTOUPDATE RUNTIME
+Author: Telegram JUNYING710
+Name: AOV FULL DOBBYHOOK BY WHOISYING
+
